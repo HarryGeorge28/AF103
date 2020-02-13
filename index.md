@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./news.md).
+[Link to another page](./news.html).
 
 There should be whitespace between paragraphs.
 
