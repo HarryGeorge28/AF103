@@ -12,7 +12,7 @@
 
 
 ### Trainers 
-[Link](https://www.goat.com/sneakers/yeezy-boost-700-utility-black-yzy-700-utility/used) 
+[Click here](https://www.goat.com/sneakers/yeezy-boost-700-utility-black-yzy-700-utility/used) 
 
 
 ### Here's some more trainers. 
