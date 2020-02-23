@@ -6,13 +6,13 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      One of three columns
+      Track your progress
     </div>
     <div class="col-sm">
-      One of three columns
+      Planner 
     </div>
     <div class="col-sm">
-      One of three columns
+      Connect with others 
     </div>
   </div>
 </div> 
