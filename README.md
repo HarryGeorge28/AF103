@@ -22,12 +22,10 @@
 ### Hoodie 
 [Over here](https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/rotate=deg:0/resize=width:1200,fit:crop/output=quality:70/compress/aqrzwS6cS0mquC7CIW37) 
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+**Sites I use**
+- [StockX](https://stockx.com/) 
+- [GOAT](https://www.goat.com/) 
+- [Depop](https://www.depop.com/) 
 
 **Bold** and _Italic_ and `Code` text
 
