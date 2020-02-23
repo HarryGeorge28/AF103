@@ -2,7 +2,7 @@
 
 ## Home
 
-### Options 
+### Clothes
 
 1. This
 2. Is 
