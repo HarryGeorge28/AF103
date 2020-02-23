@@ -20,7 +20,7 @@
 
 
 ### Hoodie 
-[Link] (https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/rotate=deg:0/resize=width:1200,fit:crop/output=quality:70/compress/aqrzwS6cS0mquC7CIW37) 
+[Over here](https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/rotate=deg:0/resize=width:1200,fit:crop/output=quality:70/compress/aqrzwS6cS0mquC7CIW37) 
 
 
 - Bulleted
