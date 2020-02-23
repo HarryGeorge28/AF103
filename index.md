@@ -4,7 +4,6 @@ title: Homepage
 description: Where your jorney begins
 ---
 
-
 <div class=".container-fluid"> 
   <div class="row">
     <div class="col-lg">
