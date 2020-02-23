@@ -22,14 +22,14 @@
 ### Hoodie 
 [Over here](https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/rotate=deg:0/resize=width:1200,fit:crop/output=quality:70/compress/aqrzwS6cS0mquC7CIW37) 
 
+
 **Sites I use**  
 - [StockX](https://stockx.com/) 
 - [GOAT](https://www.goat.com/) 
 - [Depop](https://www.depop.com/) 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+_Clothes: items worn to cover the body._ 
+ _Italic_ and `Code` text 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
