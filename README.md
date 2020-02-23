@@ -28,8 +28,10 @@
 - [GOAT](https://www.goat.com/) 
 - [Depop](https://www.depop.com/) 
 
+
 _Clothes: items worn to cover the body._ 
- _Italic_ and `Code` text 
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
