@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: Important page 
 description: Clothes + trainers. 
 ---
 
