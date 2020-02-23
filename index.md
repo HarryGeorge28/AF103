@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./news.html).
+[Link to Important page](./news.html). 
 
 [Link to another another page] (./
 
