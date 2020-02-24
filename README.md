@@ -6,9 +6,9 @@ Click run.
 
 ### Prerequisites
 
-1.Internet connection.
+1. Internet connection.
 <br> 
-2.Google chrome. 
+2. Google chrome. 
 
 
 ```
