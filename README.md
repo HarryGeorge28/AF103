@@ -5,8 +5,8 @@ In this assignment, you are going to produce a responsive Website that will disp
 Click run.
 
 ###Prerequisites
--Internet connection.
-- Google chrome. 
+ -Internet connection.
+ - Google chrome. 
 
 
 ```
