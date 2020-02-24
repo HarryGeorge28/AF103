@@ -1,12 +1,13 @@
-###AF103: Design for the web
+### AF103: Design for the web
 In this assignment, you are going to produce a responsive Website that will display on Desktop, Tablet and Smartphone devices. The design must fully consider the content hierarchy for each of the 3 proposed screen sizes, as well as UX (user experience) and IA (information architecture) and must show distinct development stages, with accompanying research and testing.
 
-##Getting started
+## Getting started
 Click run.
 
-###Prerequisites
- -Internet connection.
- - Google chrome. 
+### Prerequisites
+
+1.Internet connection.
+2.Google chrome. 
 
 
 ```
